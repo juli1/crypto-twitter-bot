@@ -1,0 +1,8 @@
+{
+  "CONSUMER_KEY": "<YOUR-CONSUMER-KEY>",
+  "CONSUMER_SECRET": "<YOUR-CONSUMER-SECRET>",
+  "ACCESS_KEY": "<YOUR-ACCESS-KEY>",
+  "ACCESS_SECRET": "<YOUR-ACCESS-SECRET>",
+  "currencies" : ["BTC","LTC","ETH", "DASH", "ZEC", "XRP"],
+  "interval" : 1800
+}
